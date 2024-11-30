@@ -1,7 +1,6 @@
 import math
 
 def is_prime(number):
-  """Determines if a given number is prime."""
 
   if number <= 1:
     return False
